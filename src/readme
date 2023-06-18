@@ -1,0 +1,15 @@
+start by installing dependancies: 
+npx create-react-app my-app --template @chakra-ui
+install carousel from react-responsive carousel
+install react-router-dom 
+
+
+What is Chakra UI?
+Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+
+Use different functions of chakra UI and carousel to make the website development more easy.
+
+The main advantage of Chakra UI is that there is no need to make a seperate file for CSS,SCSS which consume less memory and more computation.
+
+
+
